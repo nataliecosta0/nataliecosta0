@@ -1,10 +1,12 @@
 ### Hi there 👋
 <center>
+    <table>
     <tr>
-        <img src="https://github.com/nataliecosta0/nataliecosta0/blob/main/images/NatalieCosta.png" width="899px"></h2>
+        <img src="https://github.com/nataliecosta0/nataliecosta0/blob/main/images/NatalieCosta.png" width="960px"></h2>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliecosta0&hide=html&layout=compact&theme=dracula" /></td>
-        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=nataliecosta0&theme=dracula"/></td>
-    </tr>   
+        <td><img width="489px" align="left" src="https://github-readme-stats.vercel.app/api?username=nataliecosta0&theme=dracula"/></td>
+    </tr> 
+    </table>
 </center> 
 
 
