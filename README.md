@@ -18,7 +18,7 @@ I'm Natalie Costa
 <center>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliecosta0&hide=html&layout=compact&theme=dracula" /></td>
-        <td><img width="489px" align="right" src="https://github-readme-stats.vercel.app/api?username=nataliecosta0&theme=dracula"/></td>
+        <td><img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=nataliecosta0&theme=dracula"/></td>
     </tr> 
 </center>
 <!--
