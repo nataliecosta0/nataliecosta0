@@ -10,9 +10,7 @@
         <td><img width="489px" align="left" src="https://github-readme-stats.vercel.app/api?username=nataliecosta0&theme=dracula"/></td>
     </tr> 
     </table>
-</center> 
-
-
+</center>
 
 <!--
 **nataliecosta0/nataliecosta0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+**Hi there!**
+
+I have a degree in Systems Analysis and Development and I'm passionate about Software Quality, Web and Mobile Test Automation
 -->
