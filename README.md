@@ -1,9 +1,8 @@
 <center>
     <tr>
-        <img src="https://github.com/nataliecosta0/nataliecosta0/blob/main/images/NatalieCosta.png" width="960px"></h2>
+        <img src="https://github.com/nataliecosta0/nataliecosta0/blob/main/images/nataliecosta2.png" width="960px"></h2>
     </t>
 </center>
-Hi 👋 WIP
 <center>
     <table>
     <tr>
