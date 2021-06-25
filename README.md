@@ -16,10 +16,12 @@ I'm Natalie Costa
 
 ----
 <center>
+    <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliecosta0&hide=html&layout=compact&theme=dracula" /></td>
-        <td><img width="450px" align="right" src="https://github-readme-stats.vercel.app/api?username=nataliecosta0&theme=dracula"/></td>
-    </tr> 
+        <td><img width="489px" align="right" src="https://github-readme-stats.vercel.app/api?username=nataliecosta0&theme=dracula"/></td>
+    </tr>
+    </table>
 </center>
 <!--
 **nataliecosta0/nataliecosta0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
