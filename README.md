@@ -11,6 +11,8 @@
 I'm Natalie Costa
 
 🔭 I’m currently working as Software Quality Assurance Analyst with Web and Mobile Test Automation\
+:mortar_board: I have a degree in Analysis Systems Development from FATEC\
+:computer: I'm Python developer\
 🌱 I’m currently learning about Dart and Flutter
 
 
