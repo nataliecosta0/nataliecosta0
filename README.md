@@ -11,7 +11,7 @@
 I'm Natalie Costa
 
 🔭 I’m currently working as Software Quality Assurance Analyst with Web and Mobile Test Automation\
-🌱 I’m currently learning about Flutter
+🌱 I’m currently learning about Dart and Flutter
 
 
 ----
